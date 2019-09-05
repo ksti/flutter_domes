@@ -1,0 +1,4 @@
+{
+    "helloTo": "你好 {name}!",
+    "greetTo": "很高兴见到你, {name}!"
+}
